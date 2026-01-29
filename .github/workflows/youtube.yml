@@ -1,0 +1,24 @@
+name: Update YouTube videos
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-youtube:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README with latest videos
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCZLoU8Eu9iewNYHY65LBeDA"
+          max_post_count: "5"
+          readme_path: "README.md"
+          comment_tag_name: "YOUTUBE"
+          disable_html_encoding: "true"
