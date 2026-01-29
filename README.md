@@ -70,6 +70,11 @@ This two-journey framing comes from my website.
 ## Latest videos
 
 <!-- YOUTUBE:START -->
+- [The FASTEST Way to Pay Off Student Loan Debt (Personal Budget Masterclass)](https://www.youtube.com/watch?v=ZV0I1tQCU68)
+- [Should I Get the Robinhood Gold Credit Card?](https://www.youtube.com/watch?v=HlT21HFW1Oc)
+- [My One Non-negotiable Habit, "Money Day"](https://www.youtube.com/watch?v=IVUxAI2sxXo)
+- [3 Ways to Use Your Credit Card Points (+Seats.aero Walk-through)](https://www.youtube.com/watch?v=T0UPRhfFGA4)
+- [How to Pay Off Debt - Debt Snowball vs. Debt Avalanche Method](https://www.youtube.com/watch?v=f-vCDAGErKQ)
 <!-- YOUTUBE:END -->
 
 ## Connect
