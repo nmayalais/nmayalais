@@ -1,45 +1,41 @@
-<p align="center">
-  <img src="assets/hero.svg" alt="Nicholas Ayala banner" />
-</p>
-
 # Nicholas Ayala
 
-I help people build leverage across money, careers, and systems. I am a first-generation college graduate who paid off $18K in student debt in 13 months. I write about financial freedom, career freedom, and personal systems.
+I build technical systems that create leverage for teams and products. I focus on AI robotics, automation, and the operational mechanics that turn prototypes into reliable, scalable outcomes.
 
 Quick links: [Website](https://www.nicholasayala.com/) | [Blog](https://www.nicholasayala.com/blog) | [YouTube](https://www.youtube.com/@nickmayala) | [LinkedIn](https://www.linkedin.com/in/ayalanicholas/)
 
-## Two journeys, one thesis
+## Two tracks, one thesis
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>Financial Freedom</strong>
-      <p>Earn more, invest wisely, and build systems that make money a tool instead of a stressor.</p>
+      <strong>Technical Craft</strong>
+      <p>Ship durable systems by pairing strong engineering with pragmatic execution.</p>
       <ul>
-        <li>Increase income through high-value skills</li>
-        <li>Allocate capital intentionally</li>
-        <li>Automate the boring parts</li>
+        <li>Build reliable automation pipelines</li>
+        <li>Design interfaces and tooling that teams adopt</li>
+        <li>Operate systems with observability and feedback loops</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <strong>Career Freedom</strong>
-      <p>Build a career that fits your life, not the other way around.</p>
+      <strong>Systems Leadership</strong>
+      <p>Align people, process, and software to move from idea to repeatable impact.</p>
       <ul>
-        <li>Design a high-leverage role</li>
-        <li>Grow optionality</li>
-        <li>Use systems to compound</li>
+        <li>Translate strategy into execution plans</li>
+        <li>Create playbooks that scale teams</li>
+        <li>Measure outcomes, not activity</li>
       </ul>
     </td>
   </tr>
 </table>
 
-This two-journey framing comes from my website.
+This two-track framing comes from my current work and writing.
 
 ## What I write about
 
-- Money: debt payoff, investing, and cash flow that creates breathing room.
-- Careers: skill stacks, promotions, and creating leverage in your role.
-- Systems: repeatable processes that compound over time.
+- Engineering: automation, tooling, and systems design.
+- AI robotics: operationalizing models, data, and hardware workflows.
+- Execution: playbooks, metrics, and decision frameworks that scale.
 
 ## Now
 
